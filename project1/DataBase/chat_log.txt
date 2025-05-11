@@ -1,0 +1,119 @@
+
+You : my name is adarsha 
+Jarvis : Hello, Adarsha!
+You : ahat is my name 
+Jarvis : Your name is Adarsha.
+You : I am 21 years 
+Jarvis : You are 21 years old.
+You : my friends are mampi,soumen,souvik,sashi,rajdwip,priyanaka,ritika,sarnajit 
+Jarvis : Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, and Sarnajit.
+You : what is name of my first friend 
+Jarvis : Your first friend's name is Mampi.
+You : and last? 
+Jarvis : Your last friend's name is Sarnajit.
+You : I am a diploma computer science student 
+Jarvis : You are a diploma computer science student.
+You : my college is  central calcutta polytechnic 
+Jarvis : Your college is Central Calcutta Polytechnic.
+You : where i study 
+Jarvis : You study at Central Calcutta Polytechnic.
+You : what is my study depertment 
+Jarvis : Your study department is computer science.
+You : my faculties are samaresh hazra, firiza mollik, bodhisatta rakshit, subhojit roy, abira das 
+Jarvis : Your faculties are Samaresh Hazra, Firiza Mollik, Bodhisatta Rakshit, Subhojit Roy, and Abira Das.
+You : i mean college faculties 
+Jarvis : Your faculties are Samaresh Hazra, Firiza Mollik, Bodhisatta Rakshit, Subhojit Roy, and Abira Das.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : namer of my friends 
+Jarvis : Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, and Sarnajit.
+You : add a friend trish 
+Jarvis : Your friend Trish has been added to the list.
+You : namer of my friends 
+Jarvis : Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit, and Trish.
+You : what are you doing now 
+Jarvis : I am currently listening to you and waiting for your next command.
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : priyanka what is my department 
+Jarvis : Your department is computer science.
+You : take 
+Jarvis : Please give me a command.
+You : take 
+Jarvis : Please give me a command.
+You :  
+Jarvis : Please give me a command.
+You :  
+Jarvis : Please give me a command.
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : how are you? 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : how are you? 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You :  
+Jarvis : Please give me a command.
+You : can you trust executive 
+Jarvis : I can trust executive.
+You : what is my friend name 
+Jarvis : Your friend's name is Mampi.
+You : who am i? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : who is newton? 
+Jarvis : Newton was an English mathematician and physicist who is best known for his work on the laws of motion and gravity.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : who i am? 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : messi 
+Jarvis : Messi is a professional soccer player from Argentina.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : task 
+Jarvis : Please give me a command.
+You : who i am 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : 1kg equal _ gram 
+Jarvis : 1kg equals 1000 grams.
+You : newtons first law 
+Jarvis : Newton's first law states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force.
+You : how are you 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : how r y jarvis 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : hoo i m 
+Jarvis : You are Adarsha, a 21-year-old diploma computer science student at Central Calcutta Polytechnic. Your friends are Mampi, Soumen, Souvik, Sashi, Rajdwip, Priyanaka, Ritika, Sarnajit
+You : can you do turch for me 
+Jarvis : Please give me a command.
+You : newton's 1st law 
+Jarvis : Newton's first law states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force.
+You : global warming 
+Jarvis : Global warming is the gradual increase of the Earth's average surface temperature.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : what is chat gtp 
+Jarvis : Chat GTP is a chatbot development platform.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : what is the name of the prime minister of america 
+Jarvis : The current Prime Minister of America is Donald Trump.
+You : what did newton's head fall 
+Jarvis : Newton's head fell because he was hit by an apple.
+You : what is chat gtp 
+Jarvis : Chat GTP is a chatbot development platform.
+You : what is chat gtp 
+Jarvis : Chat GTP is a chatbot development platform.
+You : what is my name 
+Jarvis : Your name is Adarsha.
+You : time 
+Jarvis : The current time is 12:53pm.
